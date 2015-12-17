@@ -1,0 +1,10 @@
+﻿  TTile.cpp
+  LTexture.cpp
+  Dot.cpp
+  MapView.cpp
+d:\sdltest\sdltest\mapview.cpp(180): warning C4018: '<': signed/unsigned mismatch
+d:\sdltest\sdltest\mapview.cpp(266): warning C4018: '<': signed/unsigned mismatch
+d:\sdltest\sdltest\mapview.cpp(349): warning C4018: '<': signed/unsigned mismatch
+d:\sdltest\sdltest\mapview.cpp(465): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+D:\sdlTest\curl-7.46.0\cygcurl-4.dll : fatal error LNK1107: invalid or corrupt file: cannot read at 0x308
